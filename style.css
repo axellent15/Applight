@@ -7,7 +7,7 @@ body {
 	font-size: 14px;
 }
 a {
-	color:#2388ed;
+	color:#2348ed;
 }
 a:hover {
 	color: blue;
@@ -91,14 +91,14 @@ h6 {
 	color: #333;
 }
 .nav-scroll .nav-link:hover:after {
-	background-color: #2388ed;
+	background-color: #2348ed;
 }
 .nav-scroll .active {
 	position: relative;
 }
 .banner {
-	background: #60bfff;
-	background: linear-gradient(to left, #60daff, #9fd6fa);
+	background: #6078ff;
+	background: linear-gradient(to left, #6078ff, #9fd6fa);
 	padding:100px 0px;
 	position:relative;
 }
@@ -314,19 +314,19 @@ h6 {
 	border-radius: 50%;
 	width: 70%;
 }
-.team-detail h4 {
-	color:rgb(142, 30, 252);
+.Pelatihan h4 {
+	color:rgb(30, 119, 252);
 	margin-top: 20px;
 	font-size: 17px;
 	margin-bottom: 0px;
 }
-.testimonial {
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+.Organisasi {
+	background: #6098ff;
+	background: linear-gradient(to left, #6092ff, #9fddfa);
 	padding:100px 0px;
 	position:relative;
 }
-.testimonial::before {
+.Organisasi::before {
 	content: "";
 	display: block;
 	position: absolute;
@@ -441,8 +441,8 @@ input {
 .contact-info {
 	padding: 2rem 2rem 1rem;
 	border-radius: 8px;
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #6085ff;
+	background: linear-gradient(to left, #60bfff, #9fa8fa);
 }
 .contact-item {
 	margin:23px 0px;
